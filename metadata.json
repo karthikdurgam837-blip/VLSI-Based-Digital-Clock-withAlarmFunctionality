@@ -1,0 +1,6 @@
+{
+  "name": "Commute News Audio Summarizer",
+  "description": "Synthesizes custom news digest scripts and records high-fidelity speech briefings tailored to commute lengths and preferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
